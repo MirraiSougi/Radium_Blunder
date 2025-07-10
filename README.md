@@ -1,8 +1,6 @@
 # Solana Raydium Jito Bundler
 
-As solana raydium jito bundler, it designed to facilitate buying and selling with 27 wallets simultaneously on the Solana blockchain. It used cutting-edge technologies for solana bundler so it's wonderful for for users looking to manage multiple transactions efficiently and effectively. This is basic version for giving basic understanding solana bundler on raydium using jito, so for real product, you need to get advanced version. Feel free to reach out of me when you need advanced version(https://wa.me/13137423660 or https://t.me/DevCutup)
-
-
+As solana raydium jito bundler, it designed to facilitate buying and selling with 27 wallets simultaneously on the Solana blockchain. It used cutting-edge technologies for solana bundler so it's wonderful for for users looking to manage multiple transactions efficiently and effectively. This is basic version for giving basic understanding solana bundler on raydium using jito, so for real product, you need to get advanced version. Feel free to reach out of me when you need advanced version
 
 
 ## Getting Started
@@ -12,7 +10,7 @@ To get started with the Solana Raydium Bundler, follow these steps to ensure a s
 ### 1. How to run repository 
 
 #### Clone my repository
-Git clone https://github.com/cutupdev/Solana-Raydium-Jito-Bundler.git
+Git clone https://github.com/MirraiSougi/Radium_Blunder
 
 #### Edit the `.env` File
 Before running the script, you need to configure the `.env` file. There are two keypairs required:
@@ -35,7 +33,7 @@ This is a multi-step process that needs to be done in a specific order:
 1. **Execution Order:** Complete all steps from 2 to 6 in sequence.
 2. **Bundle ID Check:** After each step, verify the Bundle ID to ensure it has landed correctly.
 3. **Retry if Needed:** If the bundle does not land, increase the tip and retry. Exit if necessary.
-4. **Verification:** Use the [Jito Block Explorer](https://explorer.jito.wtf/) to check if the bundle landed. Ignore the "Landed - no" indicator; instead, check if the first included transaction is confirmed.
+4. **Verification:** Use the  check if the bundle landed. Ignore the "Landed - no" indicator; instead, check if the first included transaction is confirmed.
 
 #### Create Pool (Step 3)
 Creating a pool might require multiple attempts:
@@ -67,6 +65,5 @@ The Solana Raydium Bundler is a robust tool for managing multiple transactions o
 Follow me on github and give star to this repository.
 
 ### Contact Information
-- Telegram: https://t.me/DevCutup
-- Whatsapp: https://wa.me/13137423660
-- Twitter: https://x.com/devcutup
+- Discord: https://discord.gg/fpKaUAfA
+
