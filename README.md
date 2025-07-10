@@ -64,6 +64,3 @@ The Solana Raydium Bundler is a robust tool for managing multiple transactions o
 
 Follow me on github and give star to this repository.
 
-### Contact Information
-- Discord: https://discord.gg/fpKaUAfA
-
